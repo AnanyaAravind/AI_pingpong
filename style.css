@@ -1,0 +1,15 @@
+.heading h3
+{
+display:inline;
+}
+.heading {
+    width:100%;
+    text-align:left;
+}
+body{
+    background-size:cover;
+}
+.heading button{
+    float:right;
+    margin-top:20px;
+}
